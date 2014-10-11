@@ -3,7 +3,7 @@
 IDI_ICON1       ICON      "tools.ico"
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION    0,0,1,0
+ FILEVERSION    0,0,1,1
  PRODUCTVERSION 1,0,0,0
  FILEFLAGS      0x0L
  FILEFLAGSMASK  0x3fL
@@ -17,7 +17,7 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "Headway Technology Co., Ltd"
             VALUE "FileDescription", "COMEnumerater"
-            VALUE "FileVersion", "0,0,1,0"
+            VALUE "FileVersion", "0,0,1,1"
             VALUE "LegalCopyright", "Copyright (C) 2013-2014 Headway Technology Co., Ltd"
             VALUE "InternalName", "COMEnumerater"
             VALUE "OriginalFilename", "Headway"
